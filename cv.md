@@ -2,9 +2,10 @@
 
 ### Contacts
 
-**E-mail** [behzod.khujamberdiev@gmail.com](behzod.khujamberdiev@gmail.com)
-**Telegram** [@b3hz9d](https://t.me/b3hz9d) 
-**Discord** @behzod#9828
+* **E-mail** [behzod.khujamberdiev@gmail.com](behzod.khujamberdiev@gmail.com)
+* **Telegram** [@b3hz9d](https://t.me/b3hz9d) 
+* **Discord** @behzod#9828
+
 ### About me
 
 I consider myself an advanced beginner in this field since I graduated from college in this direction.
